@@ -1,4 +1,4 @@
-# ![Hysteria 2](logo.svg)
+# XLESS
 
 [![License][1]][2] [![Release][3]][4] [![Telegram][5]][6] [![Discussions][7]][8]
 
